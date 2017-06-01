@@ -84,4 +84,4 @@ export default {
 
 </script>
 
-<style lang="sass" scoped>@import "./scss/switch.scss"</style>
+<style lang="css" scoped>@import "./switch.css"</style>
